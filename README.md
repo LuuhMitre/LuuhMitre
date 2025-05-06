@@ -17,15 +17,9 @@ Sou uma desenvolvedora full stack com experiência em automação de processos, 
 - Potência Tech powered by iFood | Ciências de Dados com Python
 - Santander Bootcamp 2023 - Ciência de Dados com Python
 
-## 📈 Projetos em Destaque
-
-- [Nome do Projeto 1](link): Breve descrição do projeto, tecnologias utilizadas e objetivo.
-- [Nome do Projeto 2](link): Breve descrição do projeto, tecnologias utilizadas e objetivo.
-
 ## 🌐 Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/luana-mitre/)
-- [Portfólio Pessoal](link para seu portfólio, se disponível)
 
 
 
