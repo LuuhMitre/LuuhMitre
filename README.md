@@ -11,9 +11,12 @@ Sou uma desenvolvedora full stack com experiência em automação de processos, 
 - **Banco de Dados:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 - **Outras Ferramentas:** Git, Docker, APIs RESTful, Metodologias Ágeis (Scrum)
 
-## 📚 Formação & Certificações
+## 📚 Formação 
 
 - Ciência da Computação – Estácio (Em andamento)
+
+## 📚 Certificações
+
 - Potência Tech powered by iFood | Ciências de Dados com Python
 - Santander Bootcamp 2023 - Ciência de Dados com Python
 
