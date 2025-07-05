@@ -6,7 +6,6 @@ Atualmente, estou cursando **Ciência da Computação** e aplicando meus conheci
 
 Meu objetivo é unir minha experiência profissional com minha paixão por tecnologia para criar soluções inovadoras e de alto impacto.
 
-### 🚀 Habilidades Principais
 
 ### 🚀 Habilidades Principais
 
