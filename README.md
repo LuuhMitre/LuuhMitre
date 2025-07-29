@@ -1,16 +1,16 @@
-# Luana Mitre Gonçalves | Desenvolvedora & Analista de Dados
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/luana-mitre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://my-portfolio-jet-one-93.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio%20Completo-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:luanamitre@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-### Olá! 👋 Sou uma desenvolvedora com visão de negócio.
+# Luana Mitre 
+### Desenvolvedora Full Stack & Analista de Dados
 
 Com **10 anos de experiência em tecnologia e telecomunicações**, minha carreira me deu uma perspectiva 360º sobre como a tecnologia impacta os resultados de negócio. Evoluí de posições técnicas para a gestão de entregas B2B, onde descobri minha paixão por criar soluções que automatizam processos e transformam dados em insights estratégicos.
 
-Hoje, como estudante de **Ciência da Computação**, uno essa bagagem de negócio com minhas habilidades em **Desenvolvimento Full Stack** e **Análise de Dados** para construir aplicações ponta a ponta, desde o backend com Python e Java até a visualização de KPIs em Power BI.
+Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de negócio com minhas habilidades em **Desenvolvimento Full Stack** e **Análise de Dados** para construir aplicações ponta a ponta, desde o backend com Python e Java até a visualização de KPIs em Power BI.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luana-mitre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://my-portfolio-jet-one-93.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%238A2BE2?style=for-the-badge&logoColor=white" alt="Link para o Portfólio">
+  </a>
+</p>
 
 ---
 
