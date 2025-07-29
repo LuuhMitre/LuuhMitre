@@ -22,8 +22,8 @@ Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de ne
       <h3>Sales Analytics API & BI Dashboard</h3>
       <p>Uma solução de BI completa com uma API RESTful (FastAPI) servindo dados de um banco PostgreSQL na nuvem (Railway) para um dashboard interativo no Power BI. O projeto demonstra um pipeline de dados ponta-a-ponta, com autenticação segura via API Key.</p>
       <p>
-        <a href="URL_DO_REPOSITORIO_SALES_ANALYTICS"><strong>GitHub Repo »</strong></a> | 
-        <a href="URL_DO_POWER_BI_PUBLICO"><strong>Dashboard Online »</strong></a>
+        <a href="https://github.com/LuuhMitre/sales_analytics_service"><strong>GitHub Repo »</strong></a> | 
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiZjk0ZTYyYTYtMDY5Yi00ZmRmLWJmOGQtZTU1NDljZWI3ZGVmIiwidCI6IjVkYTBkNjk2LWM1MDEtNGNlNS1iNmNjLWI5OWI5MmIzY2NjMCJ9"><strong>Dashboard Online »</strong></a>
       </p>
       <p><sub><strong>Tecnologias:</strong> Python, FastAPI, PostgreSQL, Power BI, DAX, Railway</sub></p>
     </td>
