@@ -84,7 +84,7 @@ Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de ne
   <a href="https://www.linkedin.com/in/luana-mitre/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://my-portfolio-jet-one-93.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+<a href="https://my-portfolio-jet-one-93.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%238A2BE2?style=for-the-badge&logoColor=white" alt="Link para o Portfólio">
   </a>
 </p>
