@@ -18,6 +18,15 @@ Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de ne
 
 <table>
   <tr>
+  <td width="50%" valign="top">
+      <h3>Chronos Ticket Manager (SLA Engine)</h3>
+      <p>Sistema Full Stack de gestão de chamados com arquitetura centrada em dados. Desenvolvi uma API RESTful em Node.js integrada a um frontend em React. O diferencial técnico é a centralização das regras de negócio (cálculo automático de SLA) diretamente no PostgreSQL através de Triggers e Functions (PL/pgSQL), garantindo alta performance e integridade.</p>
+      <p>
+        <a href="https://github.com/LuuhMitre/chronos-ticket-manager"><strong>GitHub Repo »</strong></a> | 
+        <a href="https://chronos-ticket-manager.up.railway.app/"><strong>Site Online »</strong></a>
+      </p>
+      <p><sub><strong>Tecnologias:</strong> Node.js, React, PostgreSQL (PL/pgSQL), CI/CD, Railway</sub></p>
+    </td>
     <td width="50%" valign="top">
       <h3>Sales Analytics API & BI Dashboard</h3>
       <p>Uma solução de BI completa com uma API RESTful (FastAPI) servindo dados de um banco PostgreSQL na nuvem (Railway) para um dashboard interativo no Power BI. O projeto demonstra um pipeline de dados ponta-a-ponta, com autenticação segura via API Key.</p>
@@ -27,6 +36,9 @@ Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de ne
       </p>
       <p><sub><strong>Tecnologias:</strong> Python, FastAPI, PostgreSQL, Power BI, DAX, Railway</sub></p>
     </td>
+    
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Portfólio Pessoal com Next.js</h3>
       <p>Single Page Application (SPA) responsiva construída do zero para servir como minha marca pessoal e vitrine profissional. O projeto demonstra minhas competências em desenvolvimento frontend moderno, desde a componentização com React até o deploy contínuo na Vercel.</p>
@@ -36,8 +48,6 @@ Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de ne
       </p>
       <p><sub><strong>Tecnologias:</strong> React, Next.js, TypeScript, Bulma CSS, Vercel</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Automatizador de Envio de E-mails</h3>
       <p>Solução de automação em Python criada para resolver uma necessidade de negócio real: o envio de e-mails em massa com personalização. O script utiliza Pandas para ler bases de clientes de planilhas e o módulo MIME para construir e enviar e-mails com templates HTML.</p>
@@ -46,31 +56,23 @@ Hoje, como estudante de **Ciência da Computação**, unifico essa bagagem de ne
       </p>
       <p><sub><strong>Tecnologias:</strong> Python, Pandas, SMTP, HTML</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Relatório Interativo de Vendas</h3>
-      <p>Um dashboard analítico desenvolvido em Power BI a partir de um conjunto de dados brutos. O projeto envolveu todo o processo de ETL com Power Query, modelagem de dados e criação de KPIs e métricas de negócio com fórmulas DAX para analisar a lucratividade por produto.</p>
-      <p>
-        <a href="https://github.com/LuuhMitre/relatorio_elegante_de_vendas_com_power_bi"><strong>GitHub Repo »</strong></a>
-      </p>
-      <p><sub><strong>Tecnologias:</strong> Power BI, DAX, Power Query (ETL), Modelagem de Dados</sub></p>
-    </td>
+    
   </tr>
 </table>
 
 ---
 ## 🛠️ Minhas Habilidades
 
-![Ícones de Habilidades](https://skillicons.dev/icons?i=python,react,postgres,git)
+![Ícones de Habilidades](https://skillicons.dev/icons?i=python,nodejs,react,postgres,git,express,azure)
 
-| Backend | Frontend | Dados & BI | Cloud & DevOps |
+| Backend | Frontend | Dados & BI | Cloud, QA & DevOps |
 | :---: | :---: | :---: | :---: |
-| Python | React | Power BI | Git & GitHub |
-| FastAPI | Next.js | DAX | Vercel |
-| Java | TypeScript | Power Query (ETL) | Railway |
-| Spring Boot | JavaScript | SQL | Azure (Fundamentos)|
-| Django | HTML & CSS | Análise de Dados | Docker (Básico) |
-| APIs RESTful | Bulma CSS | Pandas | Metodologias Ágeis|
-
+| Python | React.js | PostgreSQL (PL/pgSQL) | Git & GitHub |
+| Node.js | Next.js | SQL Avançado | CI/CD |
+| FastAPI | TypeScript | Power BI & DAX | TDD & BDD |
+| Express.js | JavaScript | Pandas (Python) | Testes Automatizados |
+| Spring Boot | HTML5 & CSS3 | ETL (Power Query) | Vercel / Railway |
+| APIs RESTful | Bulma CSS | Excel & VBA | Azure (Fundamentos) |
 
 
 ---
